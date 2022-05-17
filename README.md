@@ -1,6 +1,6 @@
 # Rust By Example Code
 
-Restart tutotial docs via:
+Restart tutorial docs via:
 
 ```bash
 cd rust-by-example; mdbook serve
@@ -8,10 +8,11 @@ cd rust-by-example; mdbook serve
 
 ## Learning History
 
-| Finished | Chapter     |
-| -------- | ----------- |
-| 5/17/22  | Comments    |
-| 5/17/22  | Hello World |
+| Finished | Chapter         |
+| -------- | --------------- |
+| 5/17/22  | Formatted Print |
+| 5/17/22  | Comments        |
+| 5/17/22  | Hello World     |
 
 ## Setup
 

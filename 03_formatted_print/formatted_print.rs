@@ -55,4 +55,7 @@ fn main() {
     let number: f64 = 1.0;
     let width: usize = 6;
     println!("{number:>width$}");
+    // Activities assigned follows
+    let pi: f64 = 3.141592;
+    println!("Pi is roughly {pi:.3}");
 }
